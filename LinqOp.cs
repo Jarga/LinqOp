@@ -1,11 +1,12 @@
-﻿ using System;
-    using System.Linq.Expressions;
-    using System.Reflection;
+﻿using System;
+using System.Linq.Expressions;
+using System.Reflection;
+
+// https://github.com/ImaginaryDevelopment/LinqOp
+// https://www.nuget.org/packages/LinqOp/
+
 namespace ImaginaryDevelopment.Helpers
 {
-   
-
- 
         /// http://codebetter.com/patricksmacchia/2010/06/28/elegant-infoof-operators-in-c-read-info-of/
         public static class LinqOp
         {
